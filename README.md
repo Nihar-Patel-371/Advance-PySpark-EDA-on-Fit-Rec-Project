@@ -1,11 +1,11 @@
 # Advanced PySpark for Exploratory Data Analysis (EDA)
 
-This project demonstrates advanced PySpark techniques for performing exploratory data analysis (EDA) on a large-scale fitness dataset. The dataset used is from the [FitRec Project](https://sites.google.com/eng.ucsd.edu/fitrec-project/home), which contains workout data including altitude, heart rate, speed, and timestamps. The goal of this project is to analyze and visualize the data to uncover insights about user activities, workout patterns, and gender-based trends.
+This project demonstrates advanced PySpark techniques for performing exploratory data analysis (EDA) on a large-scale fitness dataset. The dataset used is from the [FitRec Project](https://sites.google.com/view/fitrec-project/), which contains workout data including altitude, heart rate, speed, and timestamps. The goal of this project is to analyze and visualize the data to uncover insights about user activities, workout patterns, and gender-based trends.
 
 ---
 
 ## Dataset
-The dataset is sourced from the [FitRec Project](https://sites.google.com/eng.ucsd.edu/fitrec-project/home). It contains workout data in JSON format, with attributes such as:
+The dataset is sourced from the [FitRec Project](https://sites.google.com/view/fitrec-project/). It contains workout data in JSON format, with attributes such as:
 - `altitude`, `heart_rate`, `latitude`, `longitude`, `speed`, `timestamp` (arrays)
 - `gender`, `sport`, `userId`, `id` (scalar values)
 
@@ -50,7 +50,7 @@ To run this project, you need the following:
 ## Installation
 1. Clone the repository:
    ```python
-   git clone https://github.com/your-username/advanced-pyspark-eda.git
+   git clone https://github.com/Nihar-Patel-371/Advance-PySpark-EDA-on-Fit-Rec-Project.git
    cd advanced-pyspark-eda
    ```
 
