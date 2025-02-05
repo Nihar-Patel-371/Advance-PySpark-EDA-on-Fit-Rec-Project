@@ -194,3 +194,7 @@ plt.show()
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
+
+## References
+
+- Ni, J., Muhlstein, L., & McAuley, J. (2019). Modeling heart rate and activity data for personalized fitness recommendation. In *Proceedings of the 2019 World Wide Web Conference (WWW '19)* (pp. 1343–1353). Association for Computing Machinery, San Francisco, CA, USA. [https://doi.org/10.1145/3308558.3313642](https://doi.org/10.1145/3308558.3313642)
