@@ -75,25 +75,6 @@ The analysis reveals:
 - Most workouts start in the morning or evening.
 - Gender-based participation shows that males dominate most sports, but females have significant participation in activities like yoga and walking.
 
-## Visualizations
-1. Top 5 Sports by User Participation
-- Bar and pie charts showing the most popular sports.
-
-2. Workout Duration Distribution
-- Histograms of workout durations by sport.
-
-3. Workout Start Time Distribution
-- Histograms of workout start times by sport and gender.
-
-4. Interval Statistics
-- Bar and line charts showing interval statistics (min, max, mean, percentiles).
-
-5. Heart Rate Over Normalized Time
-- Line plots of heart rate data over normalized time for each sport.
-
-6. 3D Workout Paths
-- 3D scatter and line plots showing workout paths in terms of longitude, latitude, and altitude.
-
 ## Advanced Analysis and Visualization
 ### Sampling Data for Analysis
 To manage the large dataset, we sample a subset of users and workouts for detailed analysis. The sampling criteria are:
