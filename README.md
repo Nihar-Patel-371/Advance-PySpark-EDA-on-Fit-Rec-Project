@@ -1,4 +1,4 @@
-# Advanced PySpark for Exploratory Data Analysis (EDA)
+# Advanced PySpark Exploratory Data Analysis (EDA) on Fit-Rec Project
 
 This project demonstrates advanced PySpark techniques for performing exploratory data analysis (EDA) on a large-scale fitness dataset. The dataset used is from the [FitRec Project](https://sites.google.com/view/fitrec-project/), which contains workout data including altitude, heart rate, speed, and timestamps. The goal of this project is to analyze and visualize the data to uncover insights about user activities, workout patterns, and gender-based trends.
 
